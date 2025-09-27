@@ -3,9 +3,9 @@
 **Enterprise-Grade Financial Network Connectivity SDK**
 
 [![Java](https://img.shields.io/badge/Java-17+-blue.svg)](https://java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.4-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](pom.xml)
+[![Version](https://img.shields.io/badge/Version-1.0.1-orange.svg)](pom.xml)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/martourrez21/finconnect-pro-sdk)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -173,7 +173,7 @@ Add the dependency to your `pom.xml`:
 <dependency>
     <groupId>com.codedstreams</groupId>
     <artifactId>finconnect-pro-sdk</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
@@ -287,7 +287,7 @@ When contributing, please consider:
 - **Code Coverage**: 65% (goal: 90%)
 - **Open Issues**: 15
 - **Active Contributors**: 1 (you can be next!)
-- **Last Release**: v1.0.0
+- **Last Release**: v1.0.1
 
 ## 🌱 Roadmap
 

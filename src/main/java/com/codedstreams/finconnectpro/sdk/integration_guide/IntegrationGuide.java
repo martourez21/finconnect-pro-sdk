@@ -20,8 +20,8 @@ package com.codedstreams.finconnectpro.sdk.integration_guide;
  * </ol>
  *
  * @author Nestor Martourez
- * @version 1.0.0
- * @since 2024.1.0
+ * @version 1.0.1
+ * @since 2025.1.0
  */
 public final class IntegrationGuide {
 

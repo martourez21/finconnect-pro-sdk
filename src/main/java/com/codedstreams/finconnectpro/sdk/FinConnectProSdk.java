@@ -21,7 +21,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * }</pre>
  *
  * @author Nestor Martourez
- * @version 1.0.0
+ * @version 1.0.1
  * @since 2025.1.0
  * @see org.springframework.boot.autoconfigure.SpringBootApplication
  */
