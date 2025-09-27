@@ -214,12 +214,12 @@ if (response.getStatus() == TransactionStatus.COMPLETED) {
 
 | Protocol | Use Case | Standards | Typical Users | Test Coverage |
 |----------|----------|-----------|---------------|---------------|
-| **FIX 4.2/5.0** | Electronic trading | FIX Protocol | Investment banks, brokers | ⭐⭐☆☆☆ |
+| **FIX 4.2/5.0** | Electronic trading | FIX Protocol | Investment banks, brokers | ⭐☆☆☆☆ |
 | **ISO-8583** | Card payments | ISO 8583 | Visa, Mastercard, processors | ⭐☆☆☆☆ |
-| **SWIFT XML** | International payments | ISO 20022 | International banks | ⭐⭐☆☆☆ |
+| **SWIFT XML** | International payments | ISO 20022 | International banks | ⭐☆☆☆☆ |
 | **SEPA XML** | European payments | pain.001/002 | EU banks, payment processors | ⭐☆☆☆☆ |
-| **REST API** | Fintech integrations | JSON/HTTP | Fintech apps, mobile banking | ⭐⭐⭐☆☆ |
-| **SOAP** | Enterprise systems | WSDL/SOAP | Corporate banking | ⭐⭐☆☆☆ |
+| **REST API** | Fintech integrations | JSON/HTTP | Fintech apps, mobile banking | ⭐☆☆☆☆ |
+| **SOAP** | Enterprise systems | WSDL/SOAP | Corporate banking | ⭐☆☆☆☆ |
 
 ## 🤝 How to Contribute
 
