@@ -1,0 +1,3 @@
+# AutoConfiguration for FinConnect Pro SDK
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.codedstreams.finconnectpro.sdk.config.SdkAutoConfiguration
