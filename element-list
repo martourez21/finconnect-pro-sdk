@@ -1,0 +1,13 @@
+com.codedstreams.finconnectpro.sdk
+com.codedstreams.finconnectpro.sdk.adapter
+com.codedstreams.finconnectpro.sdk.adapter.impl
+com.codedstreams.finconnectpro.sdk.config
+com.codedstreams.finconnectpro.sdk.domain.enums
+com.codedstreams.finconnectpro.sdk.domain.model
+com.codedstreams.finconnectpro.sdk.dto
+com.codedstreams.finconnectpro.sdk.exception
+com.codedstreams.finconnectpro.sdk.facade
+com.codedstreams.finconnectpro.sdk.integration_guide
+com.codedstreams.finconnectpro.sdk.service
+com.codedstreams.finconnectpro.sdk.service.handler
+com.codedstreams.finconnectpro.sdk.util
